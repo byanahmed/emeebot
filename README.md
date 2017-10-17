@@ -1,4 +1,4 @@
-تنصيب سورس ديف نوفار العربي
+تنصيب سورس ايمرلد  العربي
 احدث سورس بالتلي 
 
 💠- افتح ترمنال جديد وخلي
@@ -11,11 +11,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ➿- وراهه 
 
-git clone https://github.com/xnoverx/DEVNOVAR.git
+git clone https://github.com/byanahmed/emeebot.git
 
 🚼- وراهه
 
-cd DEVNOVAR
+cd emeebot
 
 ☢- وراهه
 
